@@ -1,0 +1,4 @@
+#Tue Aug 27 21:27:56 PDT 2019
+base.0=/Users/ricoalexander/Projects/rn60test/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
