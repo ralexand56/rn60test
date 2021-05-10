@@ -89,7 +89,7 @@
     "istanbul": "0.4.5",
     "jest-cli": "20.0.4",
     "jest-junit-reporter": "1.1.0",
-    "lodash": "4.17.11",
+    "lodash": "4.17.21",
     "mocha": "3.4.2",
     "mocha-junit-reporter": "1.13.0",
     "moment": "2.22.2",
